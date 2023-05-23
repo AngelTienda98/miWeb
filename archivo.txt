@@ -1,2 +1,1 @@
-Hola estoy estudiando git
-Te quiero gaviotaa ruelas
+Se modifico el archivo Gavi
